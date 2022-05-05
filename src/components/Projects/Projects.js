@@ -65,7 +65,7 @@ We're a young start-up of around 400 people that work for your needs in fitness 
               isAblog={true}
               title="Nykaa"
               description="Since our launch, we have not only redefined the art of e-retailing beauty and personal care in India, but also have been instrumental in fostering the growth of a previously relatively nascent ecosystem. From bringing you domestic brands, international brands, luxury and prestige brands, premium brands. "
-              link="https://serene-beignet-327c22.netlify.app/"
+              link="https://nykaa-clone1-2twteopl3-ankit1470.vercel.app/"
               links="https://github.com/ankit1470/Nykaa-clone"
             
               techstack="TECH-STACKS : HTML, CSS, DOM, JavaScript"
