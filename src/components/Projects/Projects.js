@@ -26,16 +26,15 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={healthkarts}
+              imgPath={health}
               isBlog={false}
               isDeploy={true}
               isAblog={true}
               title="Healthkart"
               description="We're healthkart- a great place for people serious about health and fitness.
 We're a young start-up of around 400 people that work for your needs in fitness and well-being. We deliver everything from genuine protein supplements to vitamins smoothly at prices. Being  healthproduct"
-              links="https://healthkart-clone-project-only-front-end.netlify.app/"
               link="https://github.com/ankit1470/healthkart-clone-project-only-front-end"
-            
+              links="https://healthkart-clone-project-only-front-end.netlify.app/"
               techstack="TECH-STACKS : HTML,CSS,Dom,JavaScript"
               storage="DATABASE : Local Storage."
 
@@ -43,15 +42,14 @@ We're a young start-up of around 400 people that work for your needs in fitness 
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={myntra}
+              imgPath={internshala}
               isBlog={false}
               isDeploy={true}
               isAblog={true}
-              title="Myntra"
-              description="Myntra is a one stop shop for all your fashion and lifestyle needs. Being India's largest e-commerce store for fashion and lifestyle products, Myntra aims at providing a hassle free and enjoyable shopping experience to shoppers across the country with the widest range of brands and products on its portal"
-              link="https://capable-zuccutto-4cccee.netlify.app"
-              links="https://github.com/ankit1470/Myntra-clone"
-      
+              title="Internshala"
+              description="Internshala is a dot com business with the heart of dot org. We are a technology company on a mission to equip students with relevant skills & practical exposure to help them get the best possible start to their careers. Imagine a world full of freedom and possibilities."
+              link="https://github.com/ankit1470/Backend-Internshaala"
+              links="https://internshaala.herokuapp.com/"
               techstack="TECH-STACKS: EJS, DOM, CSS, HTML"
               storage="DATABASE : Local Storage"
 
@@ -65,9 +63,8 @@ We're a young start-up of around 400 people that work for your needs in fitness 
               isAblog={true}
               title="Nykaa"
               description="Since our launch, we have not only redefined the art of e-retailing beauty and personal care in India, but also have been instrumental in fostering the growth of a previously relatively nascent ecosystem. From bringing you domestic brands, international brands, luxury and prestige brands, premium brands. "
-              link="https://nykaa-clone1-2twteopl3-ankit1470.vercel.app/"
-              links="https://github.com/ankit1470/Nykaa-clone"
-            
+              link="https://github.com/ankit1470/Nykaa-clone"
+              links="https://nykaa-clone1-2twteopl3-ankit1470.vercel.app/"
               techstack="TECH-STACKS : HTML, CSS, DOM, JavaScript"
               storage="DATABASE : Local Storage"
 
