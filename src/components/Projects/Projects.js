@@ -3,8 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import intershala from "../../Assets/Projects/internshala.png";
-import health from "../../Assets/Projects/healthkarts.png";
+import internshala from "../../Assets/Projects/internshala.png";
+import health from "../../Assets/Projects/health.png";
 import nykaa from "../../Assets/Projects/nykaa.jpeg";
 
 
