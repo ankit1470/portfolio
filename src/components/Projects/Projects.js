@@ -50,8 +50,8 @@ We're a young start-up of around 400 people that work for your needs in fitness 
               description="Internshala is a dot com business with the heart of dot org. We are a technology company on a mission to equip students with relevant skills & practical exposure to help them get the best possible start to their careers. Imagine a world full of freedom and possibilities."
               link="https://github.com/ankit1470/Backend-Internshaala"
               links="https://internshaala.herokuapp.com/"
-              techstack="TECH-STACKS: EJS, DOM, CSS, HTML"
-              storage="DATABASE : Local Storage"
+              techstack="TECH-STACKS: Express,Nodejs,EJS, DOM, CSS, HTML"
+              storage="DATABASE : MongoDb"
 
             />
           </Col>
@@ -65,7 +65,7 @@ We're a young start-up of around 400 people that work for your needs in fitness 
               description="Since our launch, we have not only redefined the art of e-retailing beauty and personal care in India, but also have been instrumental in fostering the growth of a previously relatively nascent ecosystem. From bringing you domestic brands, international brands, luxury and prestige brands, premium brands. "
               link="https://github.com/ankit1470/Nykaa-clone"
               links="https://nykaa-clone1-2twteopl3-ankit1470.vercel.app/"
-              techstack="TECH-STACKS : HTML, CSS, DOM, JavaScript"
+              techstack="TECH-STACKS : HTML,CSS,DOM,JavaScript"
               storage="DATABASE : Local Storage"
 
             />
