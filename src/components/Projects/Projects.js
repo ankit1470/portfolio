@@ -3,8 +3,8 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import myntra from "../../Assets/Projects/myntra.jpeg";
-import healthkarts from "../../Assets/Projects/healthkarts.jpeg";
+import intershala from "../../Assets/Projects/internshala.jpeg";
+import health from "../../Assets/Projects/healthkarts.jpeg";
 import nykaa from "../../Assets/Projects/nykaa.jpeg";
 
 
